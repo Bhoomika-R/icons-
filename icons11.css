@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    height: 100vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to top, rgb(252, 186, 3), rgba(252, 186, 3, 0.4));
+}
+.fab {
+    margin: 30px;
+    font-size: 40px;
+    color: black;
+}
+.far {
+    margin: 30px;
+    font-size: 40px;
+    color: black;
+    
+}
+.fa-twitter:hover {
+    color: rgb(29 161 242);
+    font-size: 50px;
+}
+.fa-instagram:hover {
+    color: rgb( 251, 57, 88);
+    font-size: 50px;
+}
+.fa-linkedin-in:hover {
+    color: rgb(0, 119, 181);
+    font-size: 50px;
+}
+.fa-envelope:hover {
+    color:#B23121;
+    font-size: 50px;
+}
+.fa-github:hover {
+    color: rgb(61, 45, 0,);
+    font-size: 50px;
+}
